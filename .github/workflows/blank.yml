@@ -45,6 +45,6 @@ jobs:
           dst: gitee/kaiLee
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token: ${{ secrets.GITEE_TOKEN }}
-          static_list: "weather-statistics"       
+          static_list: "get-weather"       
           
           
