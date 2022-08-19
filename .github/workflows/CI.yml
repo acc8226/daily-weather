@@ -5,7 +5,7 @@ name: CI
 # Controls when the workflow will run
 on:    
   schedule:
-    - cron: 0 0 * * 0-6
+    - cron: '30 0 * * 0-6'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -20,7 +20,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3    
+      - uses: actions/checkout@v3
       
        # Runs a set of commands using the runners shell
       - name: Run a multi-line script
@@ -39,6 +39,5 @@ jobs:
           dst: gitee/kaiLee
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token: ${{ secrets.GITEE_TOKEN }}
-          static_list: "get-weather"       
-          
+          static_list: "get-weather"
           
