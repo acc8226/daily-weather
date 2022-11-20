@@ -89,3 +89,4 @@ Wed Nov 16 10:31:29 CST 2022 , Beijing: ☀️   +34°F
 Thu Nov 17 10:27:02 CST 2022 , Beijing: ☀️   +0°C
 Fri Nov 18 10:32:52 CST 2022 , Beijing: ⛅️  +46°F
 Sat Nov 19 10:23:54 CST 2022 , Beijing: ☀️   +9°C
+Sun Nov 20 10:32:00 CST 2022 , Beijing: 🌫  +7°C
