@@ -49,3 +49,4 @@ Sun Jan 29 09:51:32 CST 2023 , Beijing: ☀️   +2°C
 Mon Jan 30 09:41:46 CST 2023 , Beijing: ☀️   +28°F
 Tue Jan 31 09:50:12 CST 2023 , Beijing: ☀️   +16°F
 Wed Feb  1 09:59:15 CST 2023 , Beijing: ☀️   +27°F
+Thu Feb  2 09:49:12 CST 2023 , Beijing: ☀️   -6°C
