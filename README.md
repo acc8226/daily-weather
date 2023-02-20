@@ -22,14 +22,10 @@ Wed Feb 15 01:52:06 UTC 2023 , Beijing: ☀️   -2°C
 
 Thu Feb 16 01:50:44 UTC 2023 , Beijing: ☀️   -7°C
 
-
 Fri Feb 17 01:54:12 UTC 2023 , Beijing: ☀️   -6°C
-
 
 Sat Feb 18 01:48:39 UTC 2023 , Beijing: 🌫  -3°C
 
-
 Sun Feb 19 01:52:00 UTC 2023 , Beijing: ☀️   +2°C
-
 
 Mon Feb 20 01:51:57 UTC 2023 , Beijing: ☀️   +1°C
