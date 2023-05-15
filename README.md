@@ -47,4 +47,5 @@ Call the API to get the weather to file
 `Fri May 12 07:47:25 UTC 2023 , Beijing: ☀️   +26°C
 ``Sat May 13 01:34:12 UTC 2023 , Beijing: ☀️   +24°C
 ``Sun May 14 01:42:02 UTC 2023 , Beijing: ☀️   +17°C
+``Mon May 15 01:39:38 UTC 2023 , Beijing: 🌫  +17°C
 `
