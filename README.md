@@ -121,3 +121,5 @@ Call the API to get the weather to file
 `Sun Jun 18 02:01:32 UTC 2023`, 
 `Mon Jun 19 01:48:23 UTC 2023`, Beijing: 🌫  +26°C
 
+`Tue Jun 20 01:42:35 UTC 2023`, Beijing: 🌫  +21°C
+
