@@ -280,3 +280,5 @@ Call the API to get the weather to file
 
 `Sun Sep 10 01:20:55 UTC 2023`, Beijing: ⛅️  +20°C
 
+`Mon Sep 11 01:18:09 UTC 2023`, Beijing: 🌫  +21°C
+
