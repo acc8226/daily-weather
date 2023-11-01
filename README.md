@@ -64,3 +64,5 @@ Call the API to get the weather to file
 
 `Tue Oct 31 01:19:17 UTC 2023`, Beijing: ☀️   +14°C
 
+`Wed Nov  1 01:23:31 UTC 2023`, Beijing: 🌫  +10°C
+
