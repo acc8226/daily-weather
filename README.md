@@ -148,3 +148,5 @@ Call the API to get the weather to file
 
 `Tue Dec 12 01:23:17 UTC 2023`, Beijing: ⛅️  -6°C
 
+`Wed Dec 13 01:22:58 UTC 2023`, Beijing: ☁️   -3°C
+
