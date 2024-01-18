@@ -217,3 +217,5 @@ Call the API to get the weather to file
 
 `Wed Jan 17 01:24:07 UTC 2024`, Beijing: ☀️   -1°C
 
+`Thu Jan 18 01:23:07 UTC 2024`, Beijing: 🌫  -8°C
+
