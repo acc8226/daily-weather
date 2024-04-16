@@ -392,3 +392,4 @@ Call the API to get the weather to file
 
 `Mon Apr 15 03:34:47 UTC 2024`, Beijing: ☁️   +21°C
 
+`Tue Apr 16 01:18:45 UTC 2024`, Unknown location; please try ~39.9059631,116.391248
