@@ -408,3 +408,5 @@ Call the API to get the weather to file
 
 `Wed Apr 24 01:22:02 UTC 2024`, Beijing: ☀️   +6°C
 
+`Thu Apr 25 01:45:32 UTC 2024`, Beijing: 🌫  +11°C
+
