@@ -1100,3 +1100,5 @@ Call the API to get the weather to file
 `Fri Mar 20 02:47:34 UTC 2026`, Unknown location; please try ~26.5821057,111.8351032
 `Sat Mar 21 02:40:58 UTC 2026`, qiyang: ☁️   +14°C
 
+`Sun Mar 22 03:14:08 UTC 2026`, weather fetch failed: failed to make HTTP request: Get "http://127.0.0.1:5001/premium/v1/weather.ashx?key=2b505b8f72ad3b4b2d528d804cb15&q=26.582106,111.835103&format=json&num_of_days=3&includelocation=yes&lang=en": dial tcp 127.0.0.1:5001: connect: connection refused
+
