@@ -1110,3 +1110,5 @@ Call the API to get the weather to file
 
 `Thu Mar 26 03:18:44 UTC 2026`, qiyang: 🌦   +17°C
 
+`Fri Mar 27 03:22:41 UTC 2026`, render failed: response missing current_condition array
+
